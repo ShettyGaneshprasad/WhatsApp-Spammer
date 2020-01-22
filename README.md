@@ -1,2 +1,2 @@
 # WhatsApp-Bot
-Python script for automating your messages on whatsapp.
+Python script for Spamming your friends on whatsapp.
